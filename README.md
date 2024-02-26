@@ -16,8 +16,7 @@ Your mission is to build a fraud detection model using the dataset that has been
 <li><a href="https://fraud-detection-handbook.github.io/fraud-detection-handbook/Chapter_3_GettingStarted/SimulatedDataset.html" target="_blank">Transaction data simulator</a></li>
 </ul>
 
-### Discription
-<h2>Technical specification</h2>
+### Description
 <p>Companies that involve a lot of transactions with the use of cards need to find anomalies in the system. Build a fraud detection model on credit cards. Use the transaction and their labels as fraud or non-fraud to detect if new transactions made by the customer are fraud or not.</p>
 <p>Learning outcomes: the five stages of your project</p>
 <ol>
@@ -30,10 +29,8 @@ Your mission is to build a fraud detection model using the dataset that has been
 
 ### Installation
 For working with project you need to install required libraries mentioned in `requirements.txt`
-```bash
-    # Write it in your terminal
-    pip install -r requirements
-```
+
+```pip install -r requirements.txt```
 
 
 ### Usage 
